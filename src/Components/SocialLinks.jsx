@@ -24,7 +24,7 @@ function SocialLinks() {
         />
         {hoveredIcon === 'github' && (
           <img
-            src="cat-walid.gif"
+            src="https://github.com/Mohit-005/whos-Mohit/blob/main/cat-walid.gif"
             alt="Cat talking"
             style={{
               position: 'absolute',
@@ -57,7 +57,7 @@ function SocialLinks() {
         />
         {hoveredIcon === 'envelope' && (
           <img
-            src="cat-pop.gif"
+            src="https://github.com/Mohit-005/whos-Mohit/blob/main/cat-pop.gif"
             alt="Cat talking"
             style={{
               position: 'absolute',
@@ -90,7 +90,7 @@ function SocialLinks() {
         />
         {hoveredIcon === 'linkedin' && (
           <img
-            src="kpn-kpn-cat.gif"
+            src="https://github.com/Mohit-005/whos-Mohit/blob/main/kpn-kpn-cat.gif"
             alt="Cat talking"
             style={{
               position: 'absolute',
@@ -99,7 +99,7 @@ function SocialLinks() {
               transform: 'translateX(-50%)',
               height: '70px',
               width: 'auto',
-              borderRadius: '60px',
+              borderRadius: '1px',
               zIndex: 9999,
               pointerEvents: 'none',
               marginBottom: '10px',
