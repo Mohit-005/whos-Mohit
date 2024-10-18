@@ -24,7 +24,7 @@ function SocialLinks() {
         />
         {hoveredIcon === 'github' && (
           <img
-            src="/cat-walid.gif"
+            src="https://i.ibb.co/3r7Pc13/cat-walid.gif"
             alt="Cat talking"
             style={{
               position: 'absolute',
@@ -57,7 +57,7 @@ function SocialLinks() {
         />
         {hoveredIcon === 'envelope' && (
           <img
-            src="/cat-pop.gif"
+            src="https://i.ibb.co/fpKFNQf/cat-pop.gif"
             alt="Cat talking"
             style={{
               position: 'absolute',
@@ -90,7 +90,7 @@ function SocialLinks() {
         />
         {hoveredIcon === 'linkedin' && (
           <img
-            src="/kpn-kpn-cat.gif"
+            src="https://i.ibb.co/qgqHQ4y/kpn-kpn-cat.gif"
             alt="Cat talking"
             style={{
               position: 'absolute',
