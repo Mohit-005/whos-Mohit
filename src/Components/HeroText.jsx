@@ -1,6 +1,14 @@
 /* eslint-disable react/no-array-index-key */
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable react/react-in-jsx-scope */
+/*
+   Copyright (C), 2023-2024, Mohit Kumar (Mohit)
+   Author: Mohit Kumar
+   FileName: ContactForm.jsx
+   Version: I
+   Creation: 02/08/2024
+   Last modification: 03/06/2023
+*/
 import { m, LazyMotion, domAnimation } from 'framer-motion';
 
 function HeroText() {
