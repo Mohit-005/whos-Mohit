@@ -5,8 +5,8 @@
    Author: Mohit Kumar
    FileName: MarqueeCards.jsx
    Version: I
-   Creation: 02/08/2024
-   Last modification: 03/06/2023
+   Creation: 18/10/2024
+   Last modification: 18/10/2024
 */
 
 import Marquee from 'react-fast-marquee';

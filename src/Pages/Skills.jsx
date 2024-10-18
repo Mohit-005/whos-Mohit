@@ -4,8 +4,8 @@
    Author: Mohit Kumar
    FileName: Skills.jsx
    Version: I
-   Creation: 02/08/2024
-   Last modification: 03/06/2023
+   Creation: 18/10/2024
+   Last modification: 18/10/2024
 */
 
 import MarqueeCards from '../Components/MarqueeCards';
