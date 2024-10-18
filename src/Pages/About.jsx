@@ -50,7 +50,7 @@ function About() {
                       {/* GIF that appears on hover */}
                       {isHovered && (
                         <img
-                          src="dancing.gif"
+                          src="https://i.ibb.co/MRF3853/dancing.gif"
                           alt="Cat talking"
                           style={{
                             position: 'absolute',
