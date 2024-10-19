@@ -1,9 +1,9 @@
 # who's Mohit ?
-Welcome to my portfolio repository! This project showcases my skills using React, ESLint, Tailwind, and Vite. It includes a brief introduction about me, my projects, the technologies I've worked with, and my experience. You'll also find a contact form at the bottom and my social media links below it. Feel free to explore and connect with me!
+Hello  there! This project highlights my expertise with React, ESLint, Tailwind, and Vite. Inside, you’ll find a short introduction about me, an overview of my projects, the technologies I've worked with, and details of my experience. There’s also a contact form at the bottom along with links to my social media. Feel free to explore and reach out!
 
 <p align="center">
   <br>
-  <img src="" alt="wb" width="400">
+  <img src="https://i.ibb.co/4t8fc6P/image.png" alt="wb" width="400">
   <br>
 </p>
 <p align="center" >
@@ -13,7 +13,7 @@ Welcome to my portfolio repository! This project showcases my skills using React
   <a href="#packages">Packages</a>   
 </p>
 <p align="center" >
-<a href="https://whosMohit.netlify.app/">Try it out here</a> 
+<a href="https://whos-mohit.vercel.app/">Try it out here</a> 
 </p>
 
 ## Features
@@ -28,11 +28,11 @@ $ npm run dev
 
 ## Files
 
-- src: the file that implements de solution.
-- assets: resources that are used in an application.
-- components: reusable pieces of code that define the appearance and behavior of a part of the UI.
-- pages: the different areas of the portfolio.
-- constants: values that cannot be altered by the program during normal execution.
+- **src**: the file that contains the solution implementation.
+- **assets**: resources utilized within the application.
+- **components**: reusable code elements that define both the look and functionality of a part of the user interface.
+- **pages**: distinct sections of the portfolio.
+- **constants**: values that remain unchanged during the program's execution.
 
 
 ## How To Use
