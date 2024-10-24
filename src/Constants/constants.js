@@ -82,7 +82,7 @@ const introduction = {
     "Hello there, I'm Mohit!",
 
     "I'm a Nineteen-year-old undergraduate student finishing up my third year of bachelor's in computer science at GLA University. Derivable from my degree, I have a passion for tech.",
-    "Moreover, I'm a writer, an aviation geek and a full time peace of shit. I thoroughly enjoy boxing, long distance running (masochism?!)", "Finally, I've also been told moms love me, sooooooo...",
+    "Moreover, I'm a writer, an aviation geek and a full time piece of shit. I thoroughly enjoy boxing, long distance running (masochism?!)", "Finally, I've also been told moms love me, sooooooo...",
     'You can download my resume here.',
   ],
 };
